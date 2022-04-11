@@ -1,0 +1,1 @@
+export let TENANT_ADDRESS = '0x4a53d016f3435562';
